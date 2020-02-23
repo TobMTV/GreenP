@@ -2,6 +2,7 @@
 GreenProject was my high school final project, it's a smart system developed with Arduino to manage plants and herbs.
 <br />
 With this system you can interact with :
+
 <br />
 1. Temperature
 <br />
