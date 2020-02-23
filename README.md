@@ -2,10 +2,14 @@
 GreenProject was my high school final project, it's a smart system developed with Arduino to manage plants and herbs.
 <br />
 With this system you can interact with :
-*Temperature
-*Humidity
-*Lamps
-*Pumps
+<br />
+1. Temperature
+<br />
+2. Humidity
+<br />
+3. Lamps
+<br />
+4. Pumps
 <br />
 <br />
 ![](https://github.com/TobMTV/GreenP/blob/master/photo5951781115918397661.jpg)
